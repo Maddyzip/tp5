@@ -20,5 +20,5 @@ window.onload = function() {
     this.classList.toggle("tpShow");
   }
   
-  document.querySelector("#recipeColumns #ingredients ul").innerHTML += "<li>Feel free to add extra ingredients to your liking!</li>";
+  document.querySelector("#footer").innerHTML += "enjoy this pancake gif";
 } //end of window.onload
